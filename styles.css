@@ -1,0 +1,17 @@
+table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 2px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+    .black-cell {
+      background-color: black;
+      color: white;
+      font-weight: bold;
+    }
+    a {
+      color: purple;
+      text-decoration: underline;
+    }
